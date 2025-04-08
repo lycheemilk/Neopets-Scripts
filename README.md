@@ -3,7 +3,7 @@ Just a few QoL scripts for Neopets.com. This repository is a WIP, I will add mor
 <BR>
 <h1>Set up:</h1>
 These scripts require the <a href="https://www.tampermonkey.net">Tampermonkey</a> browser extension to work. Click the "raw" link in the top left and it will take you to the installation. <BR>
-<img src="https://i.ibb.co/YT3LVsd0/tm.png" alt="tm" border="0">
+<img src="https://i.ibb.co/zHCG12qs/raw.png">
 
 <h1>The Scripts:</h1>
 <b><big>★Neofriends on the sidebar:</big></b><BR>
