@@ -9,4 +9,4 @@ These scripts require the <a href="https://www.tampermonkey.net">Tampermonkey</a
 <b><big>★Neofriends on the sidebar:</big></b>
 Are you tired of having to open the community tab or navigate to an unconverted page to see who's online? Works well with <a href="https://github.com/Blathers">Blather's</a> script which keeps the <a href="https://github.com/Blathers/neopets-user-scripts">sidebar always open</a>
 <Br>
-<img src="https://i.ibb.co/PGnqW3dh/nf.png" alt="nf" border="0">
+<img src="https://i.ibb.co/PGnqW3dh/nf.png" alt="nf" width="650px">
