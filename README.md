@@ -10,7 +10,7 @@ These scripts require the <a href="https://www.tampermonkey.net">Tampermonkey</a
 <a href="https://github.com/lycheemilk/Neopets-Scripts/blob/main/Neofriends%20On%20Sidebar.js">Download here! </a><BR> 
 Are you tired of having to open the community tab or navigate to an unconverted page to see who's online? This will update in real time to show you your online friends. Works well with <a href="https://github.com/Blathers">Blather's</a> script which keeps the <a href="https://github.com/Blathers/neopets-user-scripts">sidebar always open</a>
 <Br>
-<img src="https://i.ibb.co/PGnqW3dh/nf.png" alt="nf" border="0">
+<img src="https://files.catbox.moe/i4ob85.png">
 <BR>
 
 <b><big>★Auto offer the first 10 items in your inventory</big></b><BR>
