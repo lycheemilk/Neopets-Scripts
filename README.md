@@ -15,6 +15,6 @@ Are you tired of having to open the community tab or navigate to an unconverted 
 
 <b><big>★Auto offer the first 10 items in your inventory</big></b><BR>
 <a href="https://github.com/lycheemilk/Neopets-Scripts/blob/main/Neopets%20Trading%20Post%20Auto%20Offer%20Button.js">Download here! </a><BR> 
-This is to make sending items when switching mains or from your old recovered accounts easier. <b>WARNING there is no confirmation popup, it will automatically trade so make sure you are trading with your correct account. I am not respondsible for any wrong trades.</b>
+This is to make sending items when switching mains or from your old recovered accounts easier. <br><b>WARNING there is no confirmation popup, it will automatically trade so make sure you are trading with your correct account. I am not respondsible for any wrong trades.</b>
 <Br>
 <img src="https://i.ibb.co/v4TrYMnk/vivaldi-QITh-Mz-Hm-Lp.gif" alt="vivaldi-QITh-Mz-Hm-Lp" border="0">
