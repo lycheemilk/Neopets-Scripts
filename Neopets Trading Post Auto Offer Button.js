@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Neopets Trading Post Auto Offer Button
-// @namespace    http://tampermonkey.net/
+// @namespace    neopets
 // @version      1.2
 // @description  Adds a button to auto-select first 10 items and make an offer on Neopets Trading Post
 // @author       Pomelo
