@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Neofriends On Sidebar
-// @namespace    neopets
+// @namespace    http://tampermonkey.net/
 // @version      1.9
 // @description  Moves Neofriends avatars and makes them clickable, along with the usernames, to the left sidebar with styleable CSS classes.
 // @author       Pomelo
